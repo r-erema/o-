@@ -1,0 +1,5 @@
+o
+./lambda
+config.go
+*.pem
+lambda.zip

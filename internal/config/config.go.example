@@ -1,0 +1,4 @@
+package config
+
+const Salt = "_salt_"
+const PublicKeyData = "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA0x+Boxoj+kVHCS7829Vf\n-----END PUBLIC KEY-----\n"
